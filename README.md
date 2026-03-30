@@ -58,3 +58,9 @@ Wat we hebben besproken:
 
 ### Dag 7 • Test 4
 #### Dinsdag 21.04.26
+
+### Voortgang week 4
+<details>
+<summary> Vrijdag 24.04.26 </summary>
+Wat we hebben besproken:
+</details>
