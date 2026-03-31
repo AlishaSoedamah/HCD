@@ -5,7 +5,7 @@ Human Centered Design
 Een hoop nuances ontgaan Berend. Mensen die kunnen zien krijgen bijvoorbeeld direct een eerste indruk van een website zodra ze de pagina zien. Door kleur, typografie, opmaak, krijgen we direct een idee van wat voor website het is. Vrolijk, vriendelijk, punk, zakelijk, neutraal, grappig...vaak geeft de vormgeving al iets weg. Jouw screen reader daarentegen gebruikt steeds dezelfde stem, die op dezelfde neutrale manier al die verschillende websites voorleest. Het is een stuk lastiger om de sfeer te begrijpen. Geluid zou wellicht kunnen helpen. Kan je vorm en kleur vertalen naar geluid? Zou het misschien mogelijk zijn om intonatie toe te voegen aan een tekst?
 
 ## Over Berend
-Berend is 29 en ziet ongeveer 3%, op zijn 10e werd zijn zicht steeds erger. Berend ziet in het midden steeds slechter en aan de zijkanten beter. Ziet vooral roze/groen/geel als hij naar je kijkt dan ziet hij een soort blob vorm. Berend werkt bij een startup die zich bezighoudt met indoor navigatie en hij is ervaringsprofessional bij [Stichting Accessibility](https://www.accessibility.nl/?gad_source=1&gad_campaignid=20220834180&gbraid=0AAAAADP8R64d3G8e6LeRgA0Rysk7n0ar-&gclid=CjwKCAjwvqjOBhAGEiwAngeQnfEomd9t7k8-M6oIVCF0VwZHeEAbAxzkHCw7phhkWYOGhsEI4oBACBoCKDsQAvD_BwE).
+Berend is 29 en ziet ongeveer 3%, hij kon vroeger nog zien maar op zijn 10e werd zijn zicht steeds slechter. Berend ziet in het midden steeds slechter en aan de zijkanten beter. Zijn moeder heeft hetzelfde maar heeft het dan nog erger. Berend ziet vooral roze, groen en geel als hij naar je kijkt dan ziet hij een soort blob vorm. Berend werkt bij een startup die zich bezighoudt met indoor navigatie en hij is ervaringsprofessional bij [Stichting Accessibility](https://www.accessibility.nl/?gad_source=1&gad_campaignid=20220834180&gbraid=0AAAAADP8R64d3G8e6LeRgA0Rysk7n0ar-&gclid=CjwKCAjwvqjOBhAGEiwAngeQnfEomd9t7k8-M6oIVCF0VwZHeEAbAxzkHCw7phhkWYOGhsEI4oBACBoCKDsQAvD_BwE).
 
 Hobby's: houdbewerken, ukelele spelen, programmeren. Houdbewerken omdat je veel tactiele input gebruikt.
 
@@ -13,6 +13,8 @@ Berend gebruikt een screen reader om het web te navigeren.
 - Gebruikt een inverted scherm overlay
 - Zoom om dingen groter te maken en aan te klikken
 - Moet selecteren wat hij voorgelezen wilt hebben
+
+Wat ik heb opgemerkt tijdens de feedback momenten is dat Berend je direct aankijkt terwijl je praat. Dit vond ik grappig omdat hij je natuurlijk niet kunt zien maar wel kunt horen. Ik had niet verwacht dat het gesprek zo normaal zou voelen. 
 
 # Week 1
 ### Dag 1 • kickoff
@@ -58,23 +60,26 @@ Testen en erachter komen wat Berend echt nodig heeft. Ik hoop dat ik een antwoor
 ### Dag 2 • Test 1
 #### Dinsdag 31.03.26
 
-##### Feedback
+##### Feedback van Berend ronde 1
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
 - Alt tekst voor de button/naam van de button
 - Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen
 
-Wat associëer jij eerder met kleur? Eigenlijk is het meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren.
+Wat associëer jij eerder met kleur? Eigenlijk een beetje een saai antwoord, het is meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren maar ik heb er verder niet echt een mooi voorbeeld voor.
 
 Kleuren zijn eigenlijk niet zo boeiend maar de manier waarop ze worden uitgelezen/de vibe wel. Vooral rondvragen en testen wat andere mensen vinden. Vooral groen klinkt als groen.
+
+###### Inzichten
+De feedback heeft me inzicht gegeven over hoe Berend visuals ervaart. Wat hij nodig heeft is niet per se meer informatie over kleuren en welke lettertypes er op de site staan. Hoe Berend het zelf heeft uitgelegd: "Eigenlijk is het visuele net als het uitleggen aan een blind persoon wat glans is. Dat is super moeilijk omdat je glans ooit moet hebben gezien om te begrijpen wat het is. Als blind persoon kan je weten wat het is zodat anderen je kunnen begrijpen maar is het voor jezelf eigenlijk nutteloos. Net zoals hoe de lucht blauw is en je weet dat de lucht blauw is maar je het nooit hebt gezien. Als iemand erover vraagt en je dan niet zegt dat de lucht blauw is dan wordt je als dom gezien en wordt je behandeld als 4-jarige." Het grootste inzicht vanuit dit gesprek is dat het visuele concept vooral sociaal is en eigenlijk niet zoveel boeit als je ze toch niet kunt zien.
 
 <b>Wat heb ik vandaag gedaan?</b>
 Stemmen aan verschillende onderdelen van de site toegepast en de eerste test met Berend gedaan.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
-Ongeveer 3 uur
+Ongeveer 6 uur
 
 <b>Wat heb ik geleerd?</b>
-Screen readers hebben veel informatie
+Vooral meer over hoe Berend visuals begrijpt
 
 https://eeejay.github.io/webspeechdemos/
 
