@@ -5,7 +5,14 @@ Human Centered Design
 Een hoop nuances ontgaan Berend. Mensen die kunnen zien krijgen bijvoorbeeld direct een eerste indruk van een website zodra ze de pagina zien. Door kleur, typografie, opmaak, krijgen we direct een idee van wat voor website het is. Vrolijk, vriendelijk, punk, zakelijk, neutraal, grappig...vaak geeft de vormgeving al iets weg. Jouw screen reader daarentegen gebruikt steeds dezelfde stem, die op dezelfde neutrale manier al die verschillende websites voorleest. Het is een stuk lastiger om de sfeer te begrijpen. Geluid zou wellicht kunnen helpen. Kan je vorm en kleur vertalen naar geluid? Zou het misschien mogelijk zijn om intonatie toe te voegen aan een tekst?
 
 ## Over Berend
-Berend werkt bij een startup die zich bezighoudt met indoor navigatie en hij is ervaringsprofessional bij [Stichting Accessibility](https://www.accessibility.nl/?gad_source=1&gad_campaignid=20220834180&gbraid=0AAAAADP8R64d3G8e6LeRgA0Rysk7n0ar-&gclid=CjwKCAjwvqjOBhAGEiwAngeQnfEomd9t7k8-M6oIVCF0VwZHeEAbAxzkHCw7phhkWYOGhsEI4oBACBoCKDsQAvD_BwE). Berend is blind. Hij gebruikt een screen reader om het web te navigeren.
+Berend is 29 en ziet ongeveer 3%, op zijn 10e werd zijn zicht steeds erger. Berend ziet in het midden steeds slechter en aan de zijkanten beter. Ziet vooral roze/groen/geel als hij naar je kijkt dan ziet hij een soort blob vorm. Berend werkt bij een startup die zich bezighoudt met indoor navigatie en hij is ervaringsprofessional bij [Stichting Accessibility](https://www.accessibility.nl/?gad_source=1&gad_campaignid=20220834180&gbraid=0AAAAADP8R64d3G8e6LeRgA0Rysk7n0ar-&gclid=CjwKCAjwvqjOBhAGEiwAngeQnfEomd9t7k8-M6oIVCF0VwZHeEAbAxzkHCw7phhkWYOGhsEI4oBACBoCKDsQAvD_BwE).
+
+Hobby's: houdbewerken, ukelele spelen, programmeren. Houdbewerken omdat je veel tactiele input gebruikt.
+
+Berend gebruikt een screen reader om het web te navigeren.
+- Gebruikt een inverted scherm overlay
+- Zoom om dingen groter te maken en aan te klikken
+- Moet selecteren wat hij voorgelezen wilt hebben
 
 # Week 1
 ### Dag 1 • kickoff
@@ -37,7 +44,7 @@ Onderzoeksvragen voor mijn opdacht:
 	- Of bedoel je de overal vibe van de website?
 
 <b>Wat heb ik vandaag gedaan?</b>
-Brainstormen/ideation over ideeën voor dit project en wat tools bekeken om te kijken of mijn eerste idee ook echt kan worden uitgebouwd tot een echte web app.
+Brainstormen/ideation voor dit project en wat tools bekeken om te kijken of mijn eerste idee ook echt kan worden uitgebouwd tot een echte web app.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
 9:30 - 16:00
@@ -51,15 +58,23 @@ Testen en erachter komen wat Berend echt nodig heeft. Ik hoop dat ik een antwoor
 ### Dag 2 • Test 1
 #### Dinsdag 31.03.26
 
+##### Feedback
+- Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
+- Alt tekst voor de button/naam van de button
+- Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen
+
+Wat associëer jij eerder met kleur? Eigenlijk is het meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren.
+
+Kleuren zijn eigenlijk niet zo boeiend maar de manier waarop ze worden uitgelezen/de vibe wel. Vooral rondvragen en testen wat andere mensen vinden. Vooral groen klinkt als groen.
+
 <b>Wat heb ik vandaag gedaan?</b>
-Stemmen aan verschillende onderdelen van de site toegepast.
+Stemmen aan verschillende onderdelen van de site toegepast en de eerste test met Berend gedaan.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
-Ongeveer 3 uur 
+Ongeveer 3 uur
 
 <b>Wat heb ik geleerd?</b>
-
-<b>Wat ga ik morgen doen?</b>
+Screen readers hebben veel informatie
 
 https://eeejay.github.io/webspeechdemos/
 
