@@ -14,9 +14,9 @@ btnRed.addEventListener("click", speakRed);
 btnGreen.addEventListener("click", speakGreen);
 btnBlue.addEventListener("click", speakBlue);
 
-// speechSynthesis.onvoiceschanged = () => {
-//   console.log(speechSynthesis.getVoices());
-// };
+speechSynthesis.onvoiceschanged = () => {
+  console.log(speechSynthesis.getVoices());
+};
 
 function speakHeader() {
   let header = document.getElementsByTagName("h1")[0].textContent;
@@ -73,7 +73,7 @@ function speakRed() {
 }
 
 function speakBlue() {
-  let div = document.getElementsByTagName("div")[1].textContent;
+  let div = document.getElementsByTagName("div")[2].textContent;
   let speech = new SpeechSynthesisUtterance();
   const voices = speechSynthesis.getVoices();
 
@@ -87,11 +87,11 @@ function speakBlue() {
 }
 
 function speakGreen() {
-  let div = document.getElementsByTagName("div")[2].textContent;
+  let div = document.getElementsByTagName("div")[1].textContent;
   let speech = new SpeechSynthesisUtterance();
   const voices = speechSynthesis.getVoices();
 
-  speech.voice = voices[206];
+  speech.voice = voices[37];
   speech.text = div;
   speech.volume = 1;
   speech.rate = 1;

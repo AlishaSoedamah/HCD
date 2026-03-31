@@ -52,12 +52,16 @@ Testen en erachter komen wat Berend echt nodig heeft. Ik hoop dat ik een antwoor
 #### Dinsdag 31.03.26
 
 <b>Wat heb ik vandaag gedaan?</b>
+Stemmen aan verschillende onderdelen van de site toegepast.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
+Ongeveer 3 uur 
 
 <b>Wat heb ik geleerd?</b>
 
 <b>Wat ga ik morgen doen?</b>
+
+https://eeejay.github.io/webspeechdemos/
 
 ### Voortgang week 1
 <details>
