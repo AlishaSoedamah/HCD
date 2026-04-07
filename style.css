@@ -7,6 +7,41 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+#funHeader {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fun {
+	background-color: rgb(255, 255, 221);
+	height: 100vh;
+}
+
+#fun button {
+	box-shadow: 3px 3px 0px #000;
+	background-color: transparent;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#fun button:hover {
+	cursor: pointer;
+}
+
+button {
+	text-align: center;
+}
+
+img {
+	border-radius: 5px;
+	width: 350px;
+	height: auto;
+}
+
+.neutral {
+	background-color: rgb(255, 255, 255);
+	height: 100vh;
+}
+
 main {
 	display: flex;
 	align-items: center;
@@ -15,7 +50,7 @@ main {
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 6em;
 }
 
 p {
@@ -23,6 +58,7 @@ p {
 }
 
 div {
+	padding: 10px 0;
 	width: 200px;
 	aspect-ratio: 1;
 }

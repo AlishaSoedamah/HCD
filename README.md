@@ -62,7 +62,9 @@ Testen en erachter komen wat Berend echt nodig heeft. Ik hoop dat ik een antwoor
 
 ##### Feedback van Berend ronde 1
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
+
 - Alt tekst voor de button/naam van de button
+
 - Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen
 
 Wat associëer jij eerder met kleur? Eigenlijk een beetje een saai antwoord, het is meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren maar ik heb er verder niet echt een mooi voorbeeld voor.
@@ -87,12 +89,22 @@ https://eeejay.github.io/webspeechdemos/
 <details>
 <summary> Donderdag 02.04.26 </summary>
 Wat we hebben besproken:
+
+- Commando ```say hello``` in de terminal
+- Doe vooral veel kleine testen en kom er op die mannier achter wat Berend echt nodig heeft/wat hij vind van bepaalde dingen
+- Neutrale site vs sannes website
+- [Speech Synthesis Markup Language (SSML)](https://docs.cloud.google.com/text-to-speech/docs/ssml)
+
+Ga vooral veel testen maken zodat je er op die manier achter
 </details>
 
 # Week 2
 
 ### Dag 3 • Test 2
 #### Dinsdag 07.04.26
+Ideeën
+Neutrale - website wordt gewoon normaal uitgelezen, default
+
 <b>Wat heb ik vandaag gedaan?</b>
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
