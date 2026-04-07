@@ -60,6 +60,9 @@ Testen en erachter komen wat Berend echt nodig heeft. Ik hoop dat ik een antwoor
 ### Dag 2 • Test 1
 #### Dinsdag 31.03.26
 
+Site de eerste week:
+<img src="readme/w1.png">
+
 ##### Feedback van Berend ronde 1
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
 
@@ -99,19 +102,32 @@ Ga vooral veel testen maken zodat je er op die manier achter
 </details>
 
 # Week 2
-
 ### Dag 3 • Test 2
+<img src="readme/w2a.png">
+<img src="readme/w2b.png">
+
 #### Dinsdag 07.04.26
-Ideeën
-Neutrale - website wordt gewoon normaal uitgelezen, default
+Ideeën voor de screen reader 
+Neutrale site - website wordt gewoon normaal uitgelezen, gewoon default
+Leuke site - andere stem gebruiken, meer geluid voor bepaalde interacties
+
+Test resultaten
+Interpuncties zoals 's'-toets zijn nice voor programmeren maar niet voor een screen reader.
+
+- Grote tekst is beter -> maak de text zo groot mogelijk
+- Prettiger als de buttons ook groter zijn
+- Het liefste als je op een afbeelding klikt dat je dan ook het geluid hoort i.p.v een button die je moet klikken
+- Hoe maak ik dat kleur voor een blind persoon ook een bepaalde vibe meegeeft. Er is een boek gemaakt over geinterviewde blinden die gevraagd werden wat hun associatie is met geluid. Bijvoorbeeld dat water een golvend textuur heeft.
+- Het liefste heb je wel een geluid dat je van de website naar een andere pagina gaat. Niet storend maar wel dat je het opmerkt.
 
 <b>Wat heb ik vandaag gedaan?</b>
+Twee testen opgezet, de 2e test gedaan en de wg. Meer informatie gekregen over wat Berend precies zoekt en wat ik kan doen voor de volgende iteratie voor de site.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
+Halve dag
 
 <b>Wat heb ik geleerd?</b>
-
-<b>Wat ga ik morgen doen?</b>
+Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 
 ### Voortgang week 2
 <details>
