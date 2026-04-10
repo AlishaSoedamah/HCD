@@ -65,9 +65,7 @@ Site de eerste week:
 
 ##### Feedback van Berend ronde 1
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
-
 - Alt tekst voor de button/naam van de button
-
 - Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen
 
 Wat associëer jij eerder met kleur? Eigenlijk een beetje een saai antwoord, het is meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren maar ik heb er verder niet echt een mooi voorbeeld voor.
@@ -119,6 +117,9 @@ Interpuncties zoals 's'-toets zijn nice voor programmeren maar niet voor een scr
 - Het liefste als je op een afbeelding klikt dat je dan ook het geluid hoort i.p.v een button die je moet klikken
 - Hoe maak ik dat kleur voor een blind persoon ook een bepaalde vibe meegeeft. Er is een boek gemaakt over geinterviewde blinden die gevraagd werden wat hun associatie is met geluid. Bijvoorbeeld dat water een golvend textuur heeft.
 - Het liefste heb je wel een geluid dat je van de website naar een andere pagina gaat. Niet storend maar wel dat je het opmerkt.
+- Maak alles darkmode + highcontrast
+- Let op plaatjes want die worden inverted met de overlay
+- De font zelf boeit eigenlijk niet zo heel veel, zo lang het niet iets cursief is is het goed
 
 <b>Wat heb ik vandaag gedaan?</b>
 Twee testen opgezet, de 2e test gedaan en de wg. Meer informatie gekregen over wat Berend precies zoekt en wat ik kan doen voor de volgende iteratie voor de site.
@@ -133,6 +134,7 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 <details>
 <summary> Vrijdag 10.04.26 </summary>
 Wat we hebben besproken:
+
 </details>
 
 # Week 3
