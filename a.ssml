@@ -1,7 +1,10 @@
 <speak>
-    <seq>
-      <prosody rate="slow" pitch="1st">Cats gallery</prosody>
-      <prosody rate="slow" pitch="2st">This site is dedicated to cat pictures</prosody>
-      <prosody rate="slow" pitch="-1st">Happy cat happy life</prosody>
-    </seq>
+  <seq>
+    <media begin="0.5s">
+      <speak rate="slow" pitch="2st">Cats gallery</speak>
+    </media>
+    <media begin="2.0s">
+      <speak rate="normal" pitch="1st">This site is dedicated to cat pictures. It's just a bunch of happy cats being silly</speak>
+    </media>
+  </seq>
 </speak>

@@ -1,6 +1,5 @@
-// const btn = document.getElementById("nextPage");
+var audioToPlay = document.getElementById("audioFile");
 
-// btn.addEventListener('click', () => {
-//   const sound = new Audio('swoosh.mp3');
-//   sound.play();
-// });
+window.onload = function() {
+    audioToPlay.play()
+}

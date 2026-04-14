@@ -17,6 +17,10 @@ body {
 	color: white;
 }
 
+#fun p {
+	width: 800px;
+}
+
 #fun button {
 	box-shadow: 3px 3px 0px #ffffff;
 	background-color: transparent;
