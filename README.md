@@ -134,7 +134,8 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 <details>
 <summary> Vrijdag 10.04.26 </summary>
 Wat we hebben besproken:
-
+- Maak meer prototypes met ssml 
+- say command -> say -f a.ssml
 </details>
 
 # Week 3
