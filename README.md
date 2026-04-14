@@ -66,7 +66,7 @@ Site de eerste week:
 ##### Feedback van Berend ronde 1
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
 - Alt tekst voor de button/naam van de button
-- Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen
+- Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen waardoor je het niet verstaat
 
 Wat associëer jij eerder met kleur? Eigenlijk een beetje een saai antwoord, het is meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren maar ik heb er verder niet echt een mooi voorbeeld voor.
 
@@ -134,7 +134,7 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 <details>
 <summary> Vrijdag 10.04.26 </summary>
 Wat we hebben besproken:
-- Maak meer prototypes met ssml 
+- Maak meer prototypes met ssml (en sneller)
 - say command -> say -f a.ssml
 </details>
 
@@ -142,28 +142,22 @@ Wat we hebben besproken:
 ### Dag 4
 #### Maandag 13.04.26
 <b>Wat heb ik vandaag gedaan?</b>
+Plaatjes inverted gemaakt, swoosh aan de knop toegevoegd, tekst groter gemaakt.
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
+3 uur
 
 <b>Wat heb ik geleerd?</b>
+Meer met SSML gedaan, pitch, rate
 
 <b>Wat ga ik morgen doen?</b>
+Testen!
 
 ### Dag 5 • Test 3
 #### Dinsdag 14.04.26
-<b>Wat heb ik vandaag gedaan?</b>
+Conference dag en test 3
 
-<b>Hoeveel tijd heeft me dat gekost?</b>
 
-<b>Wat heb ik geleerd?</b>
-
-<b>Wat ga ik morgen doen?</b>
-
-### Voortgang week 3
-<details>
-<summary> Vrijdag 17.04.26 </summary>
-Wat we hebben besproken:
-</details>
 
 # Week 4
 ### Dag 6
