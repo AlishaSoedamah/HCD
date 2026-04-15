@@ -157,7 +157,21 @@ Testen!
 #### Dinsdag 14.04.26
 Conference dag en test 3
 
+- Veel mensen gaan door een website heen op heading level en sneltoetsen
+- Tab level moet ook op de tab volgorde zijn
+- Dikkere borders zijn fijner
+- Zien waar iets veranderd -> niet te veel animaties gebruiken
+- Deel pagina op in headings
+- Gebruik kleine geluidjes
+- Ze zeggen dat het een clickable image is maar je kunt er niet met de tab toets over heen. Kan je fixen met de tab index om de plaatjes te fixen
+- Wat vind jij fijne geluiden: denk aan een geluidje voor als je afrekent
+- De inverted filter maakt achtergronden alleen maar inverted en niet de plaatjes...
 
+Naar wat voor muziek luister je? Linken Park, Samsa lofi artist/beetje hiphop
+- Teksten brengen een bepaalde vibe over
+- Misschien kan je een grappige tekst erin gooien iets met meer persoonlijkheid i.p.v. geluid
+- Veel snel toetsen werken niet omdat het al wordt gebruikt door NVDA of een andere ingebouwde functie is
+- Herkent worden door het sillioute en gokken
 
 # Week 4
 ### Dag 6
