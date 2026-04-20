@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: red;
+	color: rgb(235, 235, 235);
+	background-image: linear-gradient(red ,rgb(235, 235, 235));
+}
+
+p {
+	background-color: rgb(0, 238, 255);
+}
+
+h2 {
+	background-color: rgb(0, 238, 255);
+}
+
+img {
+	width: 500px;
+	height: auto;
+	&:hover {
+		cursor: pointer;
+	}
+}
