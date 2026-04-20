@@ -178,10 +178,10 @@ Naar wat voor muziek luister je? Linken Park, Samsa lofi artist/beetje hiphop
 #### Maandag 20.04.26
 Mijn plannen voor de site:
 
-maak een thema switch 1 die de normale website laat zien en het "Brend thema" die de website dan 
+Maak een thema switch 1 die de normale website laat zien en het "Brend thema" die de website dan 
 hoog contrast styled en de screenreaders vibe aanpast.
 
-<b>Wat heb ik vandaag gedaan?</b>
+**Wat heb ik vandaag gedaan?**
 
 <b>Hoeveel tijd heeft me dat gekost?</b>
 
