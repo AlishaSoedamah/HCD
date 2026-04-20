@@ -136,6 +136,7 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 Wat we hebben besproken:
 - Maak meer prototypes met ssml (en sneller)
 - say command -> say -f a.ssml
+- 
 </details>
 
 # Week 3
@@ -183,11 +184,11 @@ hoog contrast styled en de screenreaders vibe aanpast.
 
 **Wat heb ik vandaag gedaan?**
 
-<b>Hoeveel tijd heeft me dat gekost?</b>
+**Hoeveel tijd heeft me dat gekost?**
 
-<b>Wat heb ik geleerd?</b>
+**Wat heb ik geleerd?**
 
-<b>Wat ga ik morgen doen?</b>
+**Wat ga ik morgen doen?**
 
 ### Dag 7 • Test 4
 #### Dinsdag 21.04.26

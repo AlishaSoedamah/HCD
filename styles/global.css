@@ -28,6 +28,11 @@ main {
 	flex-direction: column;
 }
 
+input {
+	padding: 10px;
+	border-radius: 25px;
+}
+
 button {
 	font-size: 2em;
 	text-align: center;
