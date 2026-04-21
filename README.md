@@ -197,16 +197,28 @@ De laatste test doen
 #### Dinsdag 21.04.26
 
 - Geluiden moeten niet te luid zijn
-- 
-Hoe herken jij satire?
+- Je hebt een goede stem voor de sfeer van poëzie uitgekozen. Ik voel de poëzie vibe wel
+- Articulate van "aaien" werd "naaien" :( dus een ander woord voor gebruiken of misschien toch wel een andere stem
+- Het is beter om het geluid van de kat te laten horen als je over het plaatje heen focust/als de screen reader erlangs gaat en dat het plaatje dan "miauw" zegt
+- onfocus event gebruiken misschien?
+- De vibe van punk door een echte voiceOver laten doen want nu is het een nog een clip
+
+**Wat associeer je met satire?**
+Er zijn veel studies gedaan naar wat mensen zien als satire bv een bepaalde toon/hoe iemand iets zegt. Dit is vooral veel onderzoekn doen...
+
+**Wat associeer je met punk?**
+Anarchy/anti-capitalist ->
+kijk naar videos van een punk/test samples en haal daar woorden uit. maak een schermlezer met een punkerige filter/accent.
+
+Eigenlijk heb je nu twee opties:
+1. Of punk meer punkerig maken
+2. bij poëzie meer met de uitspraak duidelijker maken
 
 **Wat heb ik vandaag gedaan?**
+De uiteindelijke test gedaan en de laatste notes gemaakt
 
 **Hoeveel tijd heeft me dat gekost?**
-
-**Wat heb ik geleerd?**
-
-**Wat ga ik morgen doen?**
+2 uur
 
 <img src="readme/w4a.png">
 <img src="readme/w4b.png">
@@ -220,8 +232,9 @@ Wat we hebben besproken:
 </details>
 
 # bronnen
-[Pitch](https://stackoverflow.com/questions/53876757/how-to-change-audio-pitch-with-javascript)
-[css speech](https://www.w3.org/TR/css-speech-1/)
-[aural style sheets deprecated](https://www.w3.org/TR/CSS2/aural.html)
-[media speech also deprecated](https://drafts.csswg.org/css2/#valdef-media-speech)
-[SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
+- [Pitch](https://stackoverflow.com/questions/53876757/how-to-change-audio-pitch-with-javascript)
+- [css speech](https://www.w3.org/TR/css-speech-1/)
+- [aural style sheets deprecated](https://www.w3.org/TR/CSS2/aural.html)
+- [media speech also deprecated](https://drafts.csswg.org/css2/#valdef-media-speech)
+- [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
+- [caret-color](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/caret-color)
