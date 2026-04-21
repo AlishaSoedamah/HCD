@@ -18,6 +18,11 @@ p {
 	color: white;
 }
 
+q {
+	color: white;
+	width: 300px;
+}
+
 img {
 	width: 750px;
 	height: auto;

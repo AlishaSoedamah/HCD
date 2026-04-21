@@ -5,3 +5,11 @@ mark {
 	padding: 10px;
 	margin: 0 5px;
 }
+
+p {
+	line-height: 40px;
+}
+
+p {
+	width: 60ch;
+}
