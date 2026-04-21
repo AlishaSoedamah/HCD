@@ -196,6 +196,8 @@ De laatste test doen
 ### Dag 7 • Test 4
 #### Dinsdag 21.04.26
 
+- Geluiden moeten niet te luid zijn
+- 
 Hoe herken jij satire?
 
 **Wat heb ik vandaag gedaan?**

@@ -19,6 +19,7 @@ input:focus + div {
 }
 
 input {
+	caret-color: white;
 	font-size: 20px;
 	background-color: transparent;
 	outline: white 2px solid;
