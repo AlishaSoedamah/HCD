@@ -1,0 +1,15 @@
+<speak version="1.0" xml:lang="en-US">
+  Poëzie vanuit een speciale plek
+  <break time="2s"/>
+  <prosody rate="slow">Blij miauwbeestje</prosody>
+  <break time="1s"/>
+   <emphasis level="reduced">Altijd blij om me te zien en geaaid te worden.</emphasis>
+  <break time="1s"/>
+  Alles dat jou uniek maakt, <emphasis level="strong">puntige oren, grote ogen, vlekkje op je pootje.</emphasis>
+  <break time="1s"/>
+  <emphasis level="moderate">Kat in de zon, wat ben jij toch</emphasis> <emphasis level="strong">warm.</emphasis>
+  <break time="1s"/>
+  <emphasis level="moderate">Kat op mijn schoot, wat ben jij</emphasis> <emphasis level="strong">toch mooi.</emphasis>
+  <break time="1s"/>
+  <emphasis level="strong">Katje, wat ben jij toch een schatje!</emphasis>
+</speak>
