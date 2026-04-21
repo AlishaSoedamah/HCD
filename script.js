@@ -1,5 +1,9 @@
-var audioToPlay = document.getElementById("audioFile");
+function play() {
+    var audio = document.getElementById("audio");
+    audio.play();
+}
 
-window.onload = function() {
-    audioToPlay.play()
+function playtwo() {
+    var audiotwo = document.getElementById("audiotwo");
+    audiotwo.play();
 }
