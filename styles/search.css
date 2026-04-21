@@ -10,6 +10,14 @@ main {
 	height: 100vh;
 }
 
+div {
+  opacity: 0;
+}
+
+input:focus + div {
+  opacity: 1;
+}
+
 input {
 	font-size: 20px;
 	background-color: transparent;
