@@ -136,7 +136,6 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 Wat we hebben besproken:
 - Maak meer prototypes met ssml (en sneller)
 - say command -> say -f a.ssml
-- 
 </details>
 
 # Week 3
@@ -174,13 +173,30 @@ Naar wat voor muziek luister je? Linken Park, Samsa lofi artist/beetje hiphop
 - Veel snel toetsen werken niet omdat het al wordt gebruikt door NVDA of een andere ingebouwde functie is
 - Herkent worden door het sillioute en gokken
 
+<img src="readme/w3a.png">
+<img src="readme/w3b.png">
+
 # Week 4
 ### Dag 6
 #### Maandag 20.04.26
-Mijn plannen voor de site:
 
-Maak een thema switch 1 die de normale website laat zien en het "Brend thema" die de website dan 
-hoog contrast styled en de screenreaders vibe aanpast.
+**Wat heb ik vandaag gedaan?**
+Meer pagina's gemaakt met een andere vibe om het verschil tussen de voice over te testen
+
+**Hoeveel tijd heeft me dat gekost?**
+Halve dag
+
+**Wat heb ik geleerd?**
+say command kan niet <audio> uitspreken dus moet ik daar iets op verzinnen
+<img src="readme/voices.png">
+
+**Wat ga ik morgen doen?**
+De laatste test doen
+
+### Dag 7 • Test 4
+#### Dinsdag 21.04.26
+
+Hoe herken jij satire?
 
 **Wat heb ik vandaag gedaan?**
 
@@ -190,15 +206,10 @@ hoog contrast styled en de screenreaders vibe aanpast.
 
 **Wat ga ik morgen doen?**
 
-### Dag 7 • Test 4
-#### Dinsdag 21.04.26
-<b>Wat heb ik vandaag gedaan?</b>
-
-<b>Hoeveel tijd heeft me dat gekost?</b>
-
-<b>Wat heb ik geleerd?</b>
-
-<b>Wat ga ik morgen doen?</b>
+<img src="readme/w4a.png">
+<img src="readme/w4b.png">
+<img src="readme/w4c.png">
+<img src="readme/w4d.png">
 
 ### Voortgang week 4
 <details>
