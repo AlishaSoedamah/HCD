@@ -64,13 +64,18 @@ Site de eerste week:
 <img src="readme/w1.png">
 
 ##### Feedback van Berend ronde 1
+Wat kan er beter?
 - Wat chiller zou zijn is dat de website meteen zegt wat het is i.p.v. de titel van de pagia uitleest
 - Alt tekst voor de button/naam van de button
 - Hou de range van hard naar zacht redelijk klein -> nu wordt de kleine tekst te zacht voorgelezen waardoor je het niet verstaat
 
+Wat ging goed? 
+- Leuk idee
+- Vooral de stem van groen klinkt als groen.
+
 Wat associëer jij eerder met kleur? Eigenlijk een beetje een saai antwoord, het is meer iets wat je omgeving erover verteld bijvoorbeeld: vuur is rood en warm. Kleur is eerder een sociaal concept dan een emotie. Ik zou lichtere kleuren met hogere stemmen associëren maar ik heb er verder niet echt een mooi voorbeeld voor.
 
-Kleuren zijn eigenlijk niet zo boeiend maar de manier waarop ze worden uitgelezen/de vibe wel. Vooral rondvragen en testen wat andere mensen vinden. Vooral groen klinkt als groen.
+Kleuren zijn eigenlijk niet zo boeiend maar de manier waarop ze worden uitgelezen/de vibe wel. Vooral rondvragen en testen wat andere mensen vinden.
 
 ###### Inzichten
 De feedback heeft me inzicht gegeven over hoe Berend visuals ervaart. Wat hij nodig heeft is niet per se meer informatie over kleuren en welke lettertypes er op de site staan. Hoe Berend het zelf heeft uitgelegd: "Eigenlijk is het visuele net als het uitleggen aan een blind persoon wat glans is. Dat is super moeilijk omdat je glans ooit moet hebben gezien om te begrijpen wat het is. Als blind persoon kan je weten wat het is zodat anderen je kunnen begrijpen maar is het voor jezelf eigenlijk nutteloos. Net zoals hoe de lucht blauw is en je weet dat de lucht blauw is maar je het nooit hebt gezien. Als iemand erover vraagt en je dan niet zegt dat de lucht blauw is dan wordt je als dom gezien en wordt je behandeld als 4-jarige." Het grootste inzicht vanuit dit gesprek is dat het visuele concept vooral sociaal is en eigenlijk niet zoveel boeit als je ze toch niet kunt zien.
@@ -105,13 +110,14 @@ Ga vooral veel testen maken zodat je er op die manier achter
 <img src="readme/w2b.png">
 
 #### Dinsdag 07.04.26
-Ideeën voor de screen reader 
-Neutrale site - website wordt gewoon normaal uitgelezen, gewoon default
-Leuke site - andere stem gebruiken, meer geluid voor bepaalde interacties
+Ideeën voor de screen reader:
+- Neutrale site - website wordt gewoon normaal uitgelezen, gewoon default
+- Leuke site - andere stem gebruiken, meer geluid voor bepaalde interacties
 
 Test resultaten
-Interpuncties zoals 's'-toets zijn nice voor programmeren maar niet voor een screen reader.
+- Interpuncties zoals 's'-toets zijn nice voor programmeren maar niet voor een screen reader.
 
+Wat kan er beter?
 - Grote tekst is beter -> maak de text zo groot mogelijk
 - Prettiger als de buttons ook groter zijn
 - Het liefste als je op een afbeelding klikt dat je dan ook het geluid hoort i.p.v een button die je moet klikken
@@ -119,6 +125,8 @@ Interpuncties zoals 's'-toets zijn nice voor programmeren maar niet voor een scr
 - Het liefste heb je wel een geluid dat je van de website naar een andere pagina gaat. Niet storend maar wel dat je het opmerkt.
 - Maak alles darkmode + highcontrast
 - Let op plaatjes want die worden inverted met de overlay
+
+Wat ging er goed?
 - De font zelf boeit eigenlijk niet zo heel veel, zo lang het niet iets cursief is is het goed
 
 <b>Wat heb ik vandaag gedaan?</b>
@@ -134,8 +142,11 @@ Meer inzichten gekregen, vooral grotere tekst gebruiken voor de website
 <details>
 <summary> Vrijdag 10.04.26 </summary>
 Wat we hebben besproken:
-- Maak meer prototypes met ssml (en sneller)
+
+- Maak meer prototypes met ssml en ``` <prosody> ```
 - say command -> say -f a.ssml
+- Mis nog steeds persoonlijkheid in de Voice Over
+
 </details>
 
 # Week 3
@@ -157,11 +168,14 @@ Testen!
 #### Dinsdag 14.04.26
 Conference dag en test 3
 
+Good to knows:
 - Veel mensen gaan door een website heen op heading level en sneltoetsen
 - Tab level moet ook op de tab volgorde zijn
 - Dikkere borders zijn fijner
 - Zien waar iets veranderd -> niet te veel animaties gebruiken
 - Deel pagina op in headings
+
+Wat kan beter?
 - Gebruik kleine geluidjes
 - Ze zeggen dat het een clickable image is maar je kunt er niet met de tab toets over heen. Kan je fixen met de tab index om de plaatjes te fixen
 - Wat vind jij fijne geluiden: denk aan een geluidje voor als je afrekent
@@ -196,12 +210,16 @@ De laatste test doen
 ### Dag 7 • Test 4
 #### Dinsdag 21.04.26
 
+Wat kan beter?
 - Geluiden moeten niet te luid zijn
-- Je hebt een goede stem voor de sfeer van poëzie uitgekozen. Ik voel de poëzie vibe wel
 - Articulate van "aaien" werd "naaien" :( dus een ander woord voor gebruiken of misschien toch wel een andere stem
 - Het is beter om het geluid van de kat te laten horen als je over het plaatje heen focust/als de screen reader erlangs gaat en dat het plaatje dan "miauw" zegt
 - onfocus event gebruiken misschien?
 - De vibe van punk door een echte voiceOver laten doen want nu is het een nog een clip
+
+Wat ging goed?
+- Je hebt een goede stem voor de sfeer van poëzie uitgekozen. Ik voel de poëzie vibe wel
+- De vibe geeft wel punk voor de punk pagina
 
 **Wat associeer je met satire?**
 Er zijn veel studies gedaan naar wat mensen zien als satire bv een bepaalde toon/hoe iemand iets zegt. Dit is vooral veel onderzoekn doen...
@@ -231,6 +249,12 @@ De uiteindelijke test gedaan en de laatste notes gemaakt
 Wat we hebben besproken:
 </details>
 
+### Hoe heb ik het probleem opgelost?
+**Design principles**
+study situation
+ignore conventions
+prioritise identity
+add nonsense
 # bronnen
 - [Pitch](https://stackoverflow.com/questions/53876757/how-to-change-audio-pitch-with-javascript)
 - [css speech](https://www.w3.org/TR/css-speech-1/)
