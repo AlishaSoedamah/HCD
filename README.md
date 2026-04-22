@@ -238,6 +238,10 @@ De uiteindelijke test gedaan en de laatste notes gemaakt
 **Hoeveel tijd heeft me dat gekost?**
 2 uur
 
+todos:
+- Swoosh geluid terug in de pagina gooien wanneer je van pagina veranderd
+- 
+
 <img src="readme/w4a.png">
 <img src="readme/w4b.png">
 <img src="readme/w4c.png">
