@@ -239,8 +239,12 @@ De uiteindelijke test gedaan en de laatste notes gemaakt
 2 uur
 
 todos:
-- Swoosh geluid terug in de pagina gooien wanneer je van pagina veranderd
-- 
+[] Swoosh geluid terug in de pagina gooien wanneer je van pagina veranderd
+[] Stop knop bij de screen reader
+[] Meer content op de pagina zetten
+[] Cat VO probleem oplossen
+[] Meerdere stemmen laten zien als opties
+[] Meer kleine geluidjes doen voor interactie
 
 <img src="readme/w4a.png">
 <img src="readme/w4b.png">
@@ -251,6 +255,14 @@ todos:
 <details>
 <summary> Vrijdag 24.04.26 </summary>
 Wat we hebben besproken:
+- Lijstje maken 
+- Alles wat niet lukt wordt aanbevelingen
+- Werk pagina meer uit
+- Audio met de ssml tekst editen aan elkaar
+- Schrijf je reflectie
+- Zoek een 'Sweet spot' tussen de ruige punk geluiden en een normale screenreader
+- 
+
 </details>
 
 ### Hoe heb ik het probleem opgelost?
